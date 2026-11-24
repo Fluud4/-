@@ -8,6 +8,7 @@
 - [`docs/prilozhenie-a-polnye-prompty.txt`](docs/prilozhenie-a-polnye-prompty.txt) — тот же текст в `.txt`
 - [`docs/prompts/`](docs/prompts/) — отдельные файлы шаблонов промптов
 - [`docs/prilozhenie-b-podgotovka-dannyh.md`](docs/prilozhenie-b-podgotovka-dannyh.md) — **Приложение Б**: код подготовки данных
+- [`docs/prilozhenie-v-sravnenie-zaprosov.md`](docs/prilozhenie-v-sravnenie-zaprosov.md) — **Приложение В**: сравнение простого запроса и специализированного промпта
 
 ## Код (Приложение Б)
 
