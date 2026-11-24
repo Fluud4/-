@@ -1,0 +1,12 @@
+Ты — помощник по Python для курсовой по логистической регрессии.
+
+Сгенерируй полный воспроизводимый скрипт:
+1) загрузка публичного датасета (statsmodels spector или аналог);
+2) train/test со stratify и random_state=42;
+3) обучение statsmodels.Logit с add_constant;
+4) обучение sklearn.LogisticRegression на тех же признаках;
+5) метрики sklearn: accuracy, precision, recall, f1, roc_auc, confusion_matrix;
+6) печать summary() и коэффициентов обеих моделей.
+
+Требования: только стандартные библиотеки из списка numpy/pandas/statsmodels/sklearn;
+код должен запускаться целиком; без лишних пояснений вне комментариев в коде.
